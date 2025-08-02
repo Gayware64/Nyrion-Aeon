@@ -1,13 +1,6 @@
 # Nyrion-Aeon
-In an alternate timeline where terminals gained consciousness, Nyrion-Aeon emerged — not just as a shell, but as a philosophy engine. This Python-powered reimagining of Nyrion is packed with features, mysteries, and at least one internal interpreter that may or may not be dreaming of electric sheep.
+Aeon is for the people that are to stubborn to use LTA Atlas, These versions are supported for at least 2 months.
 
-**Key Abilities:**
-- Conjures files, text and documents
-
-- Speaks its own language (because plain commands were too mainstream)
-
-Version History (Definitely Canon):
-- 1.0 reimagined: Just Nyrion 1.0 but better
-- 1.0 (Rude edition): Swears at you.
+**AEON 1.0 IS GONNA BE EOS ON AUG 30TH 2025**
 
 <img width="512" height="512" alt="NyrionAeonLogo" src="https://github.com/user-attachments/assets/c391b70b-6384-41e3-b4de-8018435bf500" />
