@@ -4,7 +4,7 @@ Nyrion Aeon is built for the diehards—the ones too stubborn to jump ship to LT
 
 Rather than follow the more polished, standardized path of LTA Atlas, Aeon stays true to its roots: lightweight, expressive, and slightly unpredictable. Think of it as the "classic edition" of Nyrion with a bit of an edge—and it's proudly aware of that fact.
 
-Each Aeon release comes with at least two months of official support, including critical bug fixes and updates. That said, these builds aren't meant to be forever—they're snapshots of a philosophy, and that philosophy moves fast.
+Each Aeon release comes with at least two months of official support, including critical bug fixes and updates. That said, these builds aren't meant to be forever—they're snapshots of a philosophy, and that philosophy moves fast. 
 
 🚨 Important Support Notice:
 The current mainline release, Aeon 1.0, will officially reach End of Support (EOS) on August 30th, 2025. If you're still running 1.0, now's the time to consider upgrading to the latest version to stay current and secure.
