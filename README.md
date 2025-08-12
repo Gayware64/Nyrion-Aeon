@@ -1,66 +1,58 @@
-#Nyrion-Aeon
 
-Nyrion Aeon: A Refreshed README with Key New Features
-Nyrion Aeon is the gritty, hands-on continuation of the Nyrion 1.0 CLI—built on LTAcore 0.4, designed for users who prefer raw control with a dash of chaos. It embraces its classic roots while delivering newly polished features and edgy flair. Each version offers two months of official support, including critical bug fixes—though be warned, it moves fast and isn’t meant to be kept around forever. The current mainline release (Aeon 1.0) reaches End of Support on August 30, 2025—so consider upgrading soon.
-GitHub
+## What is Nyrion Aeon?
 
-Latest Release – Nyrion Aeon LTS v10.3 (Released August 11, 2025)
-This is the sharpest build yet, with major enhancements in functionality and usability:
-GitHub
+**Nyrion Aeon** is a bold, no-BS command-line shell built on [LTAcore 0.4](https://github.com/Gayware64/LTAcore). Crafted for power users who want uncompromising control, packed with 50+ commands, smart defaults, and a rebellious spirit.
 
-+50 new commands (Run the Changelog.txt to view specifics)
+This shell advances the legacy of Nyrion 1.0, adding powerful new utilities, persistent configuration, safe execution practices, and slick usability improvements. Fast-paced and raw — this isn’t your average shell.
 
-Global shell improvements
+---
 
-Persistent config system (~/.nyrion_config.json) supporting aliases, prompt, themes, history limits, logging, confirmation flags
+## 🚀 Getting Started
 
-Prompt templating variables like {cwd}, {time}, {date}, {user}, and more—with \n support for multiline prompts
+### Download the latest release:
 
-Alias expansion inside lcr commands
+1. Go to the [Releases page](https://github.com/Gayware64/Nyrion-Aeon/releases).
+2. Download the latest .py file.
+3. Extract the contents to a folder of your choice.
 
-Command history features: history, !!, !N
+### Run the shell:
 
-Command logging with timestamps: log on|off [filepath]
+Open your terminal and execute:
 
-Default confirmation for destructive operations (rm, rmdir, del)—toggleable with lcr confirm off
+```bash
+python3 path/to/extracted/nyrion.py
+Requires Python 3.x.
 
-Robust parsing via shlex for better handling of quotes and spaces
+✨ Key Features
+50+ Powerful Commands: From file operations (copy, del, rmdir) to archives (zip/unzip) and scripting (run, mod).
 
-Theme flag support (a hook for future color customizations)
+Persistent Config: Store aliases, prompt settings, history limits, logging options in ~/.nyrion_config.json.
 
-Enhanced commands
+Customizable Prompt: Use {cwd}, {time}, {date}, {user}, and multiline prompts with colors coming soon.
 
-lcr copy: supports directories using copytree
+Command History & Aliases: Recall commands with history, !!, !N, and set custom shortcuts.
 
-lcr del, lcr rmdir: now ask for confirmation by default
+Safe Defaults: Destructive commands require confirmation—configurable via lcr confirm.
 
-lcr dir: faster with os.scandir, shows trailing slashes for directories
+Timestamped Logs: Keep track of your commands with log on|off [filepath].
 
-lcr type: reads files in UTF-8 with errors="ignore" to avoid encoding crashes
+Built-in Zip/Unzip: Manage archives seamlessly with relative paths and robust error handling.
 
-lcr zip/unzip: more robust with relative path handling and improved error recovery
+Cross-Platform Clipboard: Clipboard support via pyperclip or native fallbacks (clip, pbcopy, xclip).
 
-lcr mod: isolates filename to main and reads UTF-8
+Updater System: Easily keep your shell current with the built-in updater.
 
-lcr run: safely executes Python scripts and correctly returns error codes
+Robust Parsing & Execution: Improved input parsing (shlex), safe expression evaluation (ast), and UTF-8 handling.
 
-Startup & compatibility fixes
+Threaded HTTP Server: Serve files with a secure, multithreaded server on supported platforms.
 
-Ensures urllib.parse is imported (needed for curl)
+Fast Directory Listing: Optimized lcr dir with os.scandir and intuitive display.
 
-HTTP server uses ThreadingHTTPServer when available, with a safe fallback
+Cross-Platform: Smooth operation on Windows, macOS, and Linux.
 
-A safe, cross-version calculator built using AST (no risky names or calls)
+📸 Demo
 
-Cleaner loading-bar timing and improved error messaging
-
-Optional enhancements
-
-colorama: for colored terminal output
-
-psutil: for enhanced system info
-
-pyperclip: clipboard support—with automatic fallback to system tools like clip, pbcopy, xclip, etc.
-GitHub
+📖 Documentation & Support
+Explore detailed command references, configuration guides, and troubleshooting in the Wiki.
 
 <img width="1024" height="1024" alt="AeonLogo" src="https://github.com/user-attachments/assets/af863d1b-acdf-4b2a-bbf4-83c41be5cd6f" />
