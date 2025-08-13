@@ -19,7 +19,6 @@ This shell advances the legacy of Nyrion 1.0, adding powerful new utilities, per
 
 Open your terminal and execute:
 
-```bash
 python3 path/to/extracted/nyrion.py
 Requires Python 3.x.
 
