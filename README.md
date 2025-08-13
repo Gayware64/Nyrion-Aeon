@@ -1,7 +1,7 @@
 
 ## What is Nyrion Aeon?
 
-**Nyrion Aeon** is a bold, no-BS command-line shell built on [LTAcore 0.4](https://github.com/Gayware64/LTAcore). Crafted for power users who want uncompromising control, packed with 50+ commands, smart defaults, and a rebellious spirit.
+**Nyrion Aeon** is a bold, no-BS command-line shell built on [LTAcore 0.7](https://github.com/Gayware64/LTAcore). Crafted for power users who want uncompromising control, packed with 50+ commands, smart defaults, and a rebellious spirit.
 
 This shell advances the legacy of Nyrion 1.0, adding powerful new utilities, persistent configuration, safe execution practices, and slick usability improvements. Fast-paced and raw — this isn’t your average shell.
 
@@ -54,5 +54,6 @@ Cross-Platform: Smooth operation on Windows, macOS, and Linux.
 📖 Documentation & Support
 Explore detailed command references, configuration guides, and troubleshooting in the Wiki.
 
-<img width="1024" height="1024" alt="AeonLogo" src="https://github.com/user-attachments/assets/af863d1b-acdf-4b2a-bbf4-83c41be5cd6f" /><img width="512" height="512" alt="LTAcore logo" src="https://github.com/user-attachments/assets/7dd79548-6902-4d7b-86d4-536b4376a8ad" />
+<img width="512" height="512" alt="AeonLogo" src="https://github.com/user-attachments/assets/af863d1b-acdf-4b2a-bbf4-83c41be5cd6f" /> <img width="512" height="512" alt="LTAcore logo" src="https://github.com/user-attachments/assets/e4b1520e-77e7-4866-bd53-dc55186f42f6" />
+
 
