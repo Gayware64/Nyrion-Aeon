@@ -55,4 +55,5 @@ Cross-Platform: Smooth operation on Windows, macOS, and Linux.
 📖 Documentation & Support
 Explore detailed command references, configuration guides, and troubleshooting in the Wiki.
 
-<img width="1024" height="1024" alt="AeonLogo" src="https://github.com/user-attachments/assets/af863d1b-acdf-4b2a-bbf4-83c41be5cd6f" />
+<img width="1024" height="1024" alt="AeonLogo" src="https://github.com/user-attachments/assets/af863d1b-acdf-4b2a-bbf4-83c41be5cd6f" /><img width="512" height="512" alt="LTAcore logo" src="https://github.com/user-attachments/assets/7dd79548-6902-4d7b-86d4-536b4376a8ad" />
+
