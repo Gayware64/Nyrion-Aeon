@@ -20,7 +20,8 @@ This shell advances the legacy of Nyrion 1.0, adding powerful new utilities, per
 Open your terminal and execute:
 
 python3 path/to/extracted/nyrion.py
-Requires Python 3.x.
+Requires Python 3.8.8
+Also at least Windows 7 (If youre using Linux, Also works on Linux or MacOS)
 
 ✨ Key Features
 50+ Powerful Commands: From file operations (copy, del, rmdir) to archives (zip/unzip) and scripting (run, mod).
@@ -47,12 +48,10 @@ Threaded HTTP Server: Serve files with a secure, multithreaded server on support
 
 Fast Directory Listing: Optimized lcr dir with os.scandir and intuitive display.
 
-Cross-Platform: Smooth operation on Windows, macOS, and Linux.
+Cross-Platform: Smooth operation on Windows, macOS, and Linux. (Even supporting Windows 7!)
 
-📸 Demo
+Something wrong? DM me on X (@Pingunix or @NyrionOfficial)
 
-📖 Documentation & Support
-Explore detailed command references, configuration guides, and troubleshooting in the Wiki.
 
 <img width="512" height="512" alt="AeonLogo" src="https://github.com/user-attachments/assets/af863d1b-acdf-4b2a-bbf4-83c41be5cd6f" /> <img width="512" height="512" alt="LTAcore logo" src="https://github.com/user-attachments/assets/e4b1520e-77e7-4866-bd53-dc55186f42f6" />
 
